@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422342643261",
+    "project_id": "retrofitandmoshi",
+    "storage_bucket": "retrofitandmoshi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422342643261:android:196737d9d75b270ed86454",
+        "android_client_info": {
+          "package_name": "com.example.retrofitandmoshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422342643261-9ri4q9n569btmi7kg0rct89hv4ok77oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6it5FtZscbToHjhAHNaZMvh81CCHbkTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422342643261-9ri4q9n569btmi7kg0rct89hv4ok77oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
